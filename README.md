@@ -10,6 +10,10 @@
 <img src="https://img.shields.io/badge/Min%20SDK-26-FF6D00?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/MVVM-Architecture-6200EE?style=for-the-badge"/>
 
+<br><br>
+
+[![Download APK](https://img.shields.io/badge/⬇️%20Download%20APK-v1.0-brightgreen?style=for-the-badge&logo=android&logoColor=white)]([https://github.com/iamyasirqureshi/icalculator/releases/latest](https://github.com/iamyasirqureshi/icalculator/releases/download/v1.0/iCalculator-v1.0.apk))
+
 </div>
 
 ---
@@ -73,7 +77,18 @@ iCalculator/
 
 ---
 
-## 🚀 Getting Started
+## 📥 Installation
+
+1. Click the **Download APK** button above
+2. Open the downloaded `iCalculator-v1.0.apk` on your Android phone
+3. If asked, allow **Install from unknown sources**
+4. Install and enjoy!
+
+> Requires Android 8.0 (SDK 26) or higher
+
+---
+
+## 🚀 Build from Source
 ```bash
 git clone https://github.com/iamyasirqureshi/icalculator.git
 ```
@@ -88,9 +103,9 @@ git clone https://github.com/iamyasirqureshi/icalculator.git
 
 **Yasir Qureshi**
 
-🎓 Diploma CSE — Government Polytechnic Mumbai | 2024–25
+🎓 Diploma CSE — Government Polytechnic Mumbai **87%** | 2024–25
 
-🎓 B.Tech CSE — G H Raisoni College Pune | 2025–28
+🎓 BE CSE — G H Raisoni College Pune **CGPA 8.9** | 2025–28
 
 <a href="https://github.com/iamyasirqureshi"><img src="https://img.shields.io/badge/GitHub-iamyasirqureshi-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/yasirqureshi3158"><img src="https://img.shields.io/badge/LinkedIn-yasirqureshi3158-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -101,5 +116,7 @@ git clone https://github.com/iamyasirqureshi/icalculator.git
 <div align="center">
 
 ⭐ **Star this repo if you liked it!**
+
+[![Download APK](https://img.shields.io/badge/⬇️%20Download%20APK-v1.0-brightgreen?style=for-the-badge&logo=android&logoColor=white)](https://github.com/iamyasirqureshi/icalculator/releases/latest)
 
 </div>
