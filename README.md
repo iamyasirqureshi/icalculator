@@ -65,10 +65,10 @@ iCalculator/
 
 <div align="center">
 
-| Splash Screen | Calculator | History |
+| Splash Screen | History | Calculator |
 |:---:|:---:|:---:|
-| <img src="screenshots/Splash.jpeg.jpeg" width="200" alt="Splash"/> | <img src="screenshots/history.jpg.jpeg" width="200" alt="History"/> |
-<img src="screenshots/calculator.jpeg.jpeg" width="200" alt="Calculator"/> | 
+| <img src="screenshots/Splash.jpeg.jpeg" width="180"/> | <img src="screenshots/history.jpg.jpeg" width="180"/> | <img src="screenshots/calculator.jpeg.jpeg" width="180"/> |
+
 </div>
 
 ---
@@ -101,5 +101,6 @@ BE CSE — G H Raisoni College Pune CGPA 8.9 | 2025-28
 <div align="center">
 If you like this project give it a star!
 </div>
+
 
 
