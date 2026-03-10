@@ -1,32 +1,33 @@
 <div align="center">
 
-# iCalculator
-### A Premium Liquid Glass Calculator for Android
+# 🔢 iCalculator
+### Premium Liquid Glass Calculator for Android
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-Architecture-orange?style=for-the-badge)
-![Min SDK](https://img.shields.io/badge/Min_SDK-26-blue?style=for-the-badge)
+<img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
+<img src="https://img.shields.io/badge/Min%20SDK-26-FF6D00?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/MVVM-Architecture-6200EE?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## Features
+## ✨ Features
 
-- Liquid Glass UI with frosted glass buttons and shimmer effects
-- Animated Background with drifting purple blue and orange glow blobs
-- Spring Animations on every button press
-- Calculation History with clear option
-- Cursor Editing — tap any digit to fix mistakes mid-number
-- Backspace at cursor position
-- Pure Dark Theme
-- Animated Custom Splash Screen
+- 🌊 **Liquid Glass UI** — Frosted glass buttons with shimmer and glow
+- 🎨 **Animated Background** — Drifting purple, blue and orange ambient blobs
+- 💫 **Spring Animations** — Every button press feels liquid and bouncy
+- 📋 **Calculation History** — View and clear past calculations
+- ✏️ **Cursor Editing** — Tap any digit to fix mistakes mid-number
+- ⌫ **Backspace** — Delete at cursor position precisely
+- 🌑 **Pure Dark Theme** — Deep black with colorful glow
+- 🚀 **Animated Splash Screen** — Custom branded launch experience
 
 ---
 
-## Architecture
+## 🏗️ Architecture
 ```
 iCalculator/
 ├── model/
@@ -47,61 +48,58 @@ iCalculator/
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Technology | Purpose |
 |---|---|
-| Kotlin | Primary language |
-| Jetpack Compose | Declarative UI |
-| MVVM | Architecture pattern |
-| StateFlow | Reactive state management |
-| Material 3 | Design system |
-| Splash Screen API | Launch screen |
-| Spring Animations | Liquid button feel |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=flat&logo=kotlin&logoColor=white) Kotlin | Primary language |
+| ![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white) Jetpack Compose | Declarative UI |
+| ![MVVM](https://img.shields.io/badge/MVVM-6200EE?style=flat) MVVM | Architecture pattern |
+| ![StateFlow](https://img.shields.io/badge/StateFlow-FF6D00?style=flat) StateFlow | Reactive state |
+| ![Material3](https://img.shields.io/badge/Material%203-757575?style=flat&logo=material-design&logoColor=white) Material 3 | Design system |
+| ![Splash](https://img.shields.io/badge/Splash%20Screen%20API-34A853?style=flat&logo=android&logoColor=white) Splash Screen API | Launch screen |
 
 ---
 
-## Screenshots
+## 📱 Screenshots
 
 <div align="center">
 
-| Splash Screen | History | Calculator |
+| Splash Screen | Calculator | History |
 |:---:|:---:|:---:|
-| <img src="screenshots/splash.jpg" width="180"/> | <img src="screenshots/calculator.jpg" width="180"/> | <img src="screenshots/history.jpg" width="180"/> |
+| <img src="screenshots/splash.jpg.jpeg" width="180"/> | <img src="screenshots/calculator.jpg.jpeg" width="180"/> | <img src="screenshots/history.jpg.jpeg" width="180"/> |
 
 </div>
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 ```bash
 git clone https://github.com/iamyasirqureshi/icalculator.git
 ```
 
-1. Open in Android Studio Hedgehog or newer
-2. Let Gradle sync complete
-3. Run on device with Min SDK 26
+1. Open in **Android Studio Hedgehog** or newer
+2. Let **Gradle sync** complete
+3. Run on device with **Min SDK 26**
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Yasir Qureshi**
 
-Diploma CSE — Government Polytechnic Mumbai 87% | 2024-25
+🎓 Diploma CSE — Government Polytechnic Mumbai | 2024–25
 
-BE CSE — G H Raisoni College Pune CGPA 8.9 | 2025-28
+🎓 B.Tech CSE — G H Raisoni College Pune | 2025–28
 
-[![GitHub](https://img.shields.io/badge/GitHub-iamyasirqureshi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamyasirqureshi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yasirqureshi3158-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasirqureshi3158)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirqureshi3158@gmail.com)
+<a href="https://github.com/iamyasirqureshi"><img src="https://img.shields.io/badge/GitHub-iamyasirqureshi-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yasirqureshi3158"><img src="https://img.shields.io/badge/LinkedIn-yasirqureshi3158-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yasirqureshi3158@gmail.com"><img src="https://img.shields.io/badge/Gmail-yasirqureshi3158-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
 
 <div align="center">
-If you like this project give it a star!
+
+⭐ **Star this repo if you liked it!**
+
 </div>
-
-
-
-
