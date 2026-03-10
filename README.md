@@ -12,7 +12,7 @@
 
 <br><br>
 
-[![Download APK](https://img.shields.io/badge/⬇️%20Download%20APK-v1.0-brightgreen?style=for-the-badge&logo=android&logoColor=white)]([https://github.com/iamyasirqureshi/icalculator/releases/latest](https://github.com/iamyasirqureshi/icalculator/releases/download/v1.0/iCalculator-v1.0.apk))
+[![Download APK](https://img.shields.io/badge/⬇️%20Download%20APK-v1.0-brightgreen?style=for-the-badge&logo=android&logoColor=white)](https://github.com/iamyasirqureshi/icalculator/releases/download/v1.0/iCalculator-v1.0.apk)
 
 </div>
 
